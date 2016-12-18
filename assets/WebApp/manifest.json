@@ -1,0 +1,18 @@
+{
+  "lang": "fa",
+  "name": "Snake",
+  "description": "The game For fanavard tournoment",
+  "short_name": "Snake",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "144x144"
+  }],
+  "display": "standalone",
+  "orientation": "landscape",
+  "start_url": "/",
+  "theme_color": "white",
+  "background_color": "white",
+  "gcm_sender_id": "240054171073",
+  "gcm_user_visible_only": true,
+  "permissions": ["gcm"]
+}
